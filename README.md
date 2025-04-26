@@ -1,8 +1,10 @@
 # Hello People , I'm Lailson Santana
-💻 Desenvolvedor Backend | Movido por café e Tecnologia
+### 💻 **Desenvolvedor Backend | Movido por café e Tecnologia**
 
 📍 Localização: Vitória da Conquista - BA
+
 📧 Contato: lailsonbit@gmail.com
+
 🔗 Portfólio: https://lailsonsantana.vercel.app
 
 ## 🛠️ **Tecnologias & Habilidades**

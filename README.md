@@ -33,7 +33,7 @@
 
 ## 🧾 **Mais Informações**
 
-### 📚**Livros Finalizados**
+### 📚 **Livros Finalizados**
 https://foil-truck-886.notion.site/Livros-Finalizados-284c4d3ff8d080f8a3eec72dc993ee09
 
 

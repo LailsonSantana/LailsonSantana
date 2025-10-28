@@ -33,8 +33,9 @@
 
 ## 🧾 **Mais Informações**
 
-### **Livros Finalizados**
+### 📚**Livros Finalizados**
 https://foil-truck-886.notion.site/Livros-Finalizados-284c4d3ff8d080f8a3eec72dc993ee09
+
 
 📈 Estatísticas do GitHub
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lailsonsantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailsonsantana&layout=compact&langs_count=7&theme=dracula"/> </div>

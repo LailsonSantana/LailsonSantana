@@ -7,6 +7,8 @@
 
 🔗 Portfólio: https://lailsonsantana.vercel.app
 
+
+
 ## 🛠️ **Tecnologias & Habilidades**
 
 ### **Backend**
@@ -27,6 +29,8 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+
 
 ## 🧾 **Mais Informações**
 

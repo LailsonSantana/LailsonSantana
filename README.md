@@ -7,7 +7,6 @@
 
 🔗 Portfólio: https://lailsonsantana.vercel.app
 
-<p style="margin-top:40px;"></p>
 
 ## 🛠️ **Tecnologias & Habilidades**
 

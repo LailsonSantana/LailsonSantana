@@ -23,10 +23,15 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### **🛠️ Outros**
+### **Outros**
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+## 🧾 **Mais Informações**
+
+### **Livros Finalizados**
+https://foil-truck-886.notion.site/Livros-Finalizados-284c4d3ff8d080f8a3eec72dc993ee09
 
 📈 Estatísticas do GitHub
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lailsonsantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailsonsantana&layout=compact&langs_count=7&theme=dracula"/> </div>
